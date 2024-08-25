@@ -10,9 +10,9 @@ app.use(cors());
 
 
 const user = {
-    user_id: 'john_doe_17091999',
-    email: 'john@xyz.com',
-    roll_number: 'ABCD123'
+    user_id: 'Bhaswanth67',
+    email: 'bonthala.bhaswanth2021@vitstudent.ac.in',
+    roll_number: '21BIT0299'
 };
 
 // POST endpoint
